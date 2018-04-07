@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"org.ajoberstar.gradle.stutter","l":"StutterExtension"},{"p":"org.ajoberstar.gradle.stutter","l":"StutterMatrix"},{"p":"org.ajoberstar.gradle.stutter","l":"StutterPlugin"}]
